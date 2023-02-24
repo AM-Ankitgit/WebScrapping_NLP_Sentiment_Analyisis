@@ -1,4 +1,4 @@
-# WebScrapping_NLP_Sentiment_Analyisis
+# WebScrapping_NLP_Sentiment_Analysis
 
 ## To Collect Data From Various Website To Perform Sentiment Analyisis and Calculate possible Variable
 
